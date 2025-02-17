@@ -2,7 +2,7 @@
 // incluya cualquier colaboración que haga
 #include<iostream>
 using namespace std;
-
+ 
 int main(){
   // escriba su código aquí 
   
