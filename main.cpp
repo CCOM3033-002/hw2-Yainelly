@@ -1,6 +1,6 @@
 // Yainelly Ortiz Serrano, @Yainelly 
 // 801-23-1813
-// Helpers: Chat GPT
+// Helpers: Chat GPT (para que me sugiriera cambios a mi programa. Solo me sugirio añadirle el {char slash} (linea 11) al programa)
 
 #include <iostream>
 using namespace std;
